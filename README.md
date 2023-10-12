@@ -1,8 +1,9 @@
-# React + Vite
+# Pizza Order
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A site built with React and Redux for ordering pizzas.
 
-Currently, two official plugins are available:
+Deployed to Netlify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the link to see the rendered website:
+
+[https://pizza-order-brian4code.netlify.app/](https://pizza-order-brian4code.netlify.app/)
