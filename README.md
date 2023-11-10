@@ -2,6 +2,8 @@
 
 A site built with React and Redux for ordering pizzas.
 
+Tailwind CSS
+
 Deployed to Netlify
 
 Visit the link to see the rendered website:
