@@ -2,7 +2,9 @@
 
 A site built with React and Redux for ordering pizzas.
 
-Tailwind CSS
+- **Redux** to manage UI state for user and shopping cart details
+- **React Router** for page routing
+- **Tailwind CSS** for styling the applications
 
 Deployed to Netlify
 
